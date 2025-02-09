@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/opt/boost/include",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "cppStandard": "c++23"
+        }
+    ],
+    "version": 4
+}
